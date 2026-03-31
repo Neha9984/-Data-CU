@@ -1,3 +1,4 @@
 # Data demo
 This is my first git repository
-author by Neha Bharti
+<br>
+Author by Neha Bharti
